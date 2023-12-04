@@ -1,2 +1,1 @@
-# resume
-birce yildirim online resume
+# birce yildirim online resume
